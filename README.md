@@ -1,1 +1,1 @@
-# Predicting-Personal-Loan-Approval-Using-Machine-Learning
+# Loan-Prediction
